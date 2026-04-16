@@ -1,16 +1,68 @@
 ## Hi there 👋
 
-<!--
-**kakerunning/kakerunning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kakeru 👋
 
-Here are some ideas to get you started:
+🚀 Freelance Engineer (ZZP) @ Eight Cloud Services  
+💻 Customer Support Engineer @ Create Entrance B.V.  
+📍 Based in the Netherlands  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 About Me
+
+I'm a Customer Support Engineer transitioning into **Data Engineering**, with a strong interest in:
+
+- Data Visualization
+- Performance Optimization
+- Scalable Data Systems
+
+Beyond tech, I’ve been a **Track & Field athlete for over 20 years**, which shaped how I think about:
+
+> Continuous improvement, performance analysis, and optimization.
+
+Now, I’m focused on applying those principles using data and technology — especially in the **sports and performance domain**.
+
+---
+
+## 🧠 What I'm Working On
+
+- 📊 Learning data engineering fundamentals (ETL, pipelines, databases)
+- ⚙️ Building projects with **Node.js, Next.js, Supabase**
+- 🐳 Using **Docker** for reproducible environments
+- 📈 Exploring performance data visualization (sports × data)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Tools**
+- JavaScript / TypeScript
+- Node.js / Next.js
+- Python (data analysis)
+- Docker
+
+**Data & Backend**
+- PostgreSQL / Supabase
+- REST APIs
+- Data modeling (learning)
+
+---
+
+## 📌 Featured Projects
+
+### T&F team website with CMS function(NotionAPI)
+The website has a content management system linked to a Notion Database
+
+### CoachSync
+This is a software to synchronize a relationship between a coach and an athlete. 
+
+---
+
+## 📈 Career Direction
+
+I’m actively working toward becoming a **Data Engineer**, with a long-term goal of:
+
+> Using data to optimize human performance and unlock value in sports.
+
+---
+
