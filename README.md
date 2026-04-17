@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-I'm a Customer Support Engineer transitioning into **Data Engineering**, with a strong interest in:
+I'm a Customer Support Engineer transitioning into **Data/Software Engineering**, with a strong interest in:
 
 - Data Visualization
 - Performance Optimization
