@@ -59,7 +59,7 @@ This is a software to synchronize a relationship between a coach and an athlete.
 •  Built an AI coaching assistant using Python (LangGraph) with RAG retrieval via pgvector on Supabase for context-aware, multilingual training feedback\
 •  Developed a FastAPI-based data visualization service for training analytics, including personal bests and competition tracking\
 •  Integrated DeepL API for real-time translation across three languages in the coaching workflow\
-•  Frontend built with Next.js + TypeScript and Tailwind CSS; mobile app planned with React Native / Expo\
+•  Frontend built with Next.js + TypeScript and Tailwind CSS; mobile app planned with React Native / Expo
 
 ---
 
