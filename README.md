@@ -49,17 +49,17 @@ Now, I’m focused on applying those principles using data and technology — es
 ## 📌 Featured Projects
 
 ### T&F team website with CMS function(NotionAPI)
-•  Built a club website with Next.js, using Notion API as a headless CMS and S3 for image hosting
-•  Deployed on Vercel with automated builds and content updates from Notion
+•  Built a club website with Next.js, using Notion API as a headless CMS and S3 for image hosting\
+•  Deployed on Vercel with automated builds and content updates from Notion\
 
 ### CoachSync
-This is a software to synchronize a relationship between a coach and an athlete. 
-•  Designed and built a full-stack platform for training program management, session logging, and athlete performance tracking with multilingual support (Japanese, English, German)
-•  Architected the backend with Node.js + TypeScript, PostgreSQL (Supabase), and Prisma ORM, including RESTful API design and database schema modeling
-•  Built an AI coaching assistant using Python (LangGraph) with RAG retrieval via pgvector on Supabase for context-aware, multilingual training feedback
-•  Developed a FastAPI-based data visualization service for training analytics, including personal bests and competition tracking
-•  Integrated DeepL API for real-time translation across three languages in the coaching workflow
-•  Frontend built with Next.js + TypeScript and Tailwind CSS; mobile app planned with React Native / Expo
+This is a software to synchronize a relationship between a coach and an athlete. \
+•  Designed and built a full-stack platform for training program management, session logging, and athlete performance tracking with multilingual support (Japanese, English, German)\
+•  Architected the backend with Node.js + TypeScript, PostgreSQL (Supabase), and Prisma ORM, including RESTful API design and database schema modeling\
+•  Built an AI coaching assistant using Python (LangGraph) with RAG retrieval via pgvector on Supabase for context-aware, multilingual training feedback\
+•  Developed a FastAPI-based data visualization service for training analytics, including personal bests and competition tracking\
+•  Integrated DeepL API for real-time translation across three languages in the coaching workflow\
+•  Frontend built with Next.js + TypeScript and Tailwind CSS; mobile app planned with React Native / Expo\
 
 ---
 
