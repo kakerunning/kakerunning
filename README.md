@@ -50,7 +50,7 @@ Now, I’m focused on applying those principles using data and technology — es
 
 ### T&F team website with CMS function(NotionAPI)
 •  Built a club website with Next.js, using Notion API as a headless CMS and S3 for image hosting\
-•  Deployed on Vercel with automated builds and content updates from Notion\
+•  Deployed on Vercel with automated builds and content updates from Notion
 
 ### CoachSync
 This is a software to synchronize a relationship between a coach and an athlete. \
