@@ -48,7 +48,7 @@ Now, I’m focused on applying those principles using data and technology — es
 
 ## 📌 Featured Projects
 
-### T&F team website with CMS function(NotionAPI)
+### [T&F team website with CMS function(NotionAPI)(https://github.com/kakerunning/avon_website_proto)]
 •  Built a club website with Next.js, using Notion API as a headless CMS and S3 for image hosting\
 •  Deployed on Vercel with automated builds and content updates from Notion
 
