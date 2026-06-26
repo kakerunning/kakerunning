@@ -52,8 +52,7 @@ Club website for AVON Heerlen, a real deployed athletics club site used by membe
 - Deployed on **Vercel** with automated builds — content editors update the site via Notion, no code needed
 - Live: https://avon-website-proto.vercel.app
 
-### CoachSync
-### [CoachSync](https://github.com/kakerunning/coachsync-proto)
+### [[CoachSync]](https://github.com/kakerunning/coachsync-proto)
  
 A full-stack platform that synchronizes the coach–athlete relationship: athletes log training sessions and submit weekly reports; coaches review, comment, and track athlete progress — across three languages.
  
