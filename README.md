@@ -64,21 +64,7 @@ A full-stack platform that synchronizes the coach–athlete relationship: athlet
 - Integrated **DeepL API** for real-time trilingual translation (Japanese · English · German) on coach comments and weekly reflections
 - Built athlete analytics: best time trend by distance, weekly running volume charts
 - Designed the full data model from scratch: WeeklyReport → TrainingSession → SessionResult
-**Athlete view — session entry & weekly reflection**
- 
-![Athlete session entry](docs/screenshots/athlete_session.png)
- 
-**Coach view — bilingual report with results table**
- 
-![Coach report view](docs/screenshots/coach_report.png)
- 
-**Coach dashboard — athlete list with report status**
- 
-![Coach dashboard](docs/screenshots/coach_dashboard.png)
- 
-**Coach comment with automatic Japanese translation**
- 
-![Comment translation](docs/screenshots/comment_translated.png)
+
 
 ---
 
