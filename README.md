@@ -45,14 +45,14 @@ DeepL API · Notion API · AWS S3 · Vercel · Git
 
 ## 📌 Featured Projects
 
-### [[T&F team website with CMS function(NotionAPI)](https://github.com/kakerunning/avon_website_proto)]
+### [T&F team website with CMS function(NotionAPI)](https://github.com/kakerunning/avon_website_proto)
 Club website for AVON Heerlen, a real deployed athletics club site used by members.
  
 - Built with **Next.js**, using **Notion API** as a headless CMS and **AWS S3** for image hosting
 - Deployed on **Vercel** with automated builds — content editors update the site via Notion, no code needed
 - Live: https://avon-website-proto.vercel.app
 
-### [[CoachSync]](https://github.com/kakerunning/coachsync-proto)
+### [CoachSync](https://github.com/kakerunning/coachsync-proto)
  
 A full-stack platform that synchronizes the coach–athlete relationship: athletes log training sessions and submit weekly reports; coaches review, comment, and track athlete progress — across three languages.
  
