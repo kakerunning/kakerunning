@@ -8,17 +8,13 @@
 
 ## 🎯 About Me
 
-I'm a Customer Support Engineer transitioning into **Data/Software Engineering**, with a strong interest in:
-
-- Data Visualization
-- Performance Optimization
-- Scalable Data Systems
-
-Beyond tech, I’ve been a **Track & Field athlete for over 20 years**, which shaped how I think about:
-
-> Continuous improvement, performance analysis, and optimization.
-
-Now, I’m focused on applying those principles using data and technology — especially in the **sports and performance domain**.
+I'm a Customer Support Engineer transitioning into **Software / Data Engineering**, with hands-on experience building full-stack web applications and data pipelines.
+ 
+Beyond tech, I've been a **Track & Field athlete for over 20 years** — competing in the 400m hurdles — which shapes how I approach engineering:
+ 
+> Continuous improvement, performance analysis, and systematic iteration.
+ 
+I'm especially drawn to problems at the intersection of **sports, data, and developer tooling**.
 
 ---
 
@@ -33,41 +29,66 @@ Now, I’m focused on applying those principles using data and technology — es
 
 ## 🛠 Tech Stack
 
-**Languages & Tools**
-- JavaScript / TypeScript
-- Node.js / Next.js
-- Python (data analysis)
-- Docker
-
-**Data & Backend**
-- PostgreSQL / Supabase
-- REST APIs
-- Data modeling (learning)
+**Languages**
+TypeScript / JavaScript · Python · Java · SQL
+ 
+**Frontend & Backend**
+Next.js · Node.js · React · REST API design
+ 
+**Data & Infrastructure**
+PostgreSQL · Supabase · Prisma ORM · Docker
+ 
+**Integrations & Tools**
+DeepL API · Notion API · AWS S3 · Vercel · Git
 
 ---
 
 ## 📌 Featured Projects
 
 ### [[T&F team website with CMS function(NotionAPI)](https://github.com/kakerunning/avon_website_proto)]
-•  Built a club website with Next.js, using Notion API as a headless CMS and S3 for image hosting\
-•  Deployed on Vercel with automated builds and content updates from Notion
+Club website for AVON Heerlen, a real deployed athletics club site used by members.
+ 
+- Built with **Next.js**, using **Notion API** as a headless CMS and **AWS S3** for image hosting
+- Deployed on **Vercel** with automated builds — content editors update the site via Notion, no code needed
+- Live: https://avon-website-proto.vercel.app
 
 ### CoachSync
-This is a software to synchronize a relationship between a coach and an athlete. \
-•  Designed and built a full-stack platform for training program management, session logging, and athlete performance tracking with multilingual support (Japanese, English, German)\
-•  Architected the backend with Node.js + TypeScript, PostgreSQL (Supabase), and Prisma ORM, including RESTful API design and database schema modeling\
-•  Built an AI coaching assistant using Python (LangGraph) with RAG retrieval via pgvector on Supabase for context-aware, multilingual training feedback\
-•  Developed a FastAPI-based data visualization service for training analytics, including personal bests and competition tracking\
-•  Integrated DeepL API for real-time translation across three languages in the coaching workflow\
-•  Frontend built with Next.js + TypeScript and Tailwind CSS; mobile app planned with React Native / Expo
+### [CoachSync](https://github.com/kakerunning/coachsync-proto)
+ 
+A full-stack platform that synchronizes the coach–athlete relationship: athletes log training sessions and submit weekly reports; coaches review, comment, and track athlete progress — across three languages.
+ 
+**Live demo:** https://coachsync-proto.vercel.app
+ 
+- Built with **Next.js + TypeScript** frontend, **Node.js + TypeScript** API layer, and **PostgreSQL via Supabase + Prisma**
+- Implemented **role-based access control** (COACH / ATHLETE) with separate dashboards and JWT auth
+- Integrated **DeepL API** for real-time trilingual translation (Japanese · English · German) on coach comments and weekly reflections
+- Built athlete analytics: best time trend by distance, weekly running volume charts
+- Designed the full data model from scratch: WeeklyReport → TrainingSession → SessionResult
+**Athlete view — session entry & weekly reflection**
+ 
+![Athlete session entry](docs/screenshots/athlete_session.png)
+ 
+**Coach view — bilingual report with results table**
+ 
+![Coach report view](docs/screenshots/coach_report.png)
+ 
+**Coach dashboard — athlete list with report status**
+ 
+![Coach dashboard](docs/screenshots/coach_dashboard.png)
+ 
+**Coach comment with automatic Japanese translation**
+ 
+![Comment translation](docs/screenshots/comment_translated.png)
 
 ---
 
 ## 📈 Career Direction
-
-I’m actively working toward becoming a **Data Engineer**, with a long-term goal of:
-
-> Using data to optimize human performance and unlock value in sports.
+ 
+Actively looking for **Junior Software Engineer** or **Data Analyst** roles in the Netherlands or Germany.
+ 
+My goal is to apply engineering and data skills to domains where performance and optimization matter — sports, logistics, or anywhere iteration counts.
+ 
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kakeru-ogasawara-a25a0a1b4/) 
 
 ---
 
